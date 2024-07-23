@@ -12,7 +12,34 @@ ul{
   list-style: none;
 }
 
-.container{
-  max-width: 1128px;
-  margin: 0 auto;
+.header-address{
+  font-style: normal;
+}
+
+.header-address__item, .header-link{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.header-link{
+  color: #2e2f42;
+}
+
+.header-link:hover, .header-link:active, .header-address__item:hover, .header-address__item:active{
+  color: #404bbf;
+}
+
+.logo{
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo__black-part{
+  color: #2e2f42;
 }
