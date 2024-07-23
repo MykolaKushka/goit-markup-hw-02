@@ -24,9 +24,10 @@ ul{
 
 .header-link{
   color: #2e2f42;
+  font-weight: 500;
 }
 
-.header-link:hover, .header-link:active, .header-address__item:hover, .header-address__item:active{
+.header-link:hover, .header-link:focus, .header-address__item:hover, .header-address__item:focus{
   color: #404bbf;
 }
 
