@@ -12,6 +12,8 @@ ul{
   list-style: none;
 }
 
+
+/**************************** Header section ****************************/
 .header-address{
   font-style: normal;
 }
@@ -44,3 +46,31 @@ ul{
 .logo__black-part{
   color: #2e2f42;
 }
+/**************************** End of the Header section ****************************/
+/**************************** Hero section ****************************/
+.hero-section{
+  background-color: #2e2f42;
+}
+
+.hero-section__title{
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.hero-section__btn{
+  background-color: #4D5AE5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.hero-section__btn:hover, .hero-section__btn:focus{
+  color: #404BBF;
+}
+/**************************** End of the Hero section ****************************/
