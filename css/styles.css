@@ -17,7 +17,7 @@ ul{
   letter-spacing: 0.02em
 }
 
-.title-h3{
+.title_h3{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -87,3 +87,16 @@ ul{
   background-color: #404BBF;
 }
 /**************************** End of the Hero section ****************************/
+
+
+/**************************** Advantages section ****************************/
+
+/**************************** End of the Advantages section ****************************/
+
+
+/**************************** Our Team section ****************************/
+.team{
+  background-color: #F4F4FD;
+}
+
+/**************************** End of the Our Team section ****************************/
